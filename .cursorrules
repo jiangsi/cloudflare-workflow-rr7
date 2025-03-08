@@ -1,0 +1,1 @@
+这个项目是试验性的尝试将使用  @cloudflare/vite-plugin 和 @react-router 7.3 的集成项目，最终部署于cloudflare workers
