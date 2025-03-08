@@ -3,7 +3,7 @@
 这是一个试验性项目，使用 `@cloudflare/vite-plugin` 将 React Router 7.3 与 Cloudflare Workers 集成。目标是在 Cloudflare Workers 上部署 React 应用程序，以提高性能和可扩展性。
 
 ## 线上demo
-[react-router-app-tet.jiangsi.workers.dev]()
+[react-router-app-tet.jiangsi.workers.dev](https://react-router-app-tet.jiangsi.workers.dev)
 
 ## 特性
 
@@ -36,7 +36,7 @@
 欢迎贡献！如果您有任何建议或改进，请提出 issue 或提交 pull request。
 
 ## 背景和原因看这里
-[https://jiangsi.com/blog/remix-cloudflare-how-to-support-workflow]()
+[https://jiangsi.com/blog/remix-cloudflare-how-to-support-workflow](https://jiangsi.com/blog/remix-cloudflare-how-to-support-workflow)
 
 ## 许可证
 

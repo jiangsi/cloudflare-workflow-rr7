@@ -7,3 +7,7 @@ assets = { directory = "./build/client" }
 [vars]
 VALUE_FROM_CLOUDFLARE = "Hello from Cloudflare"
 
+[[workflows]]
+name = "workflows-starter"
+binding = "MY_WORKFLOW"
+class_name = "MyWorkflow"
