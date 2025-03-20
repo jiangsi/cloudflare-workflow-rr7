@@ -21,8 +21,10 @@ export async function loader({ context }: LoaderFunctionArgs) {
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
-      <h1>react router  7.3 
-        with @cloudflare/vite-plugin</h1>
+      <h1>
+        react router  7.4 
+        with @cloudflare/vite-plugin 0.1.13
+        </h1>
         
     </div>
   );

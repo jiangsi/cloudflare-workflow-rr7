@@ -26,7 +26,9 @@ type Params = {
 export class MyWorkflow extends WorkflowEntrypoint<Env, Params> {
 	async run(event: WorkflowEvent<Params>, step: WorkflowStep) {
 		const printsome = await step.do('print some', async () => {
+      const payload = event.payload;
 			console.log('print some');
+      console.log(payload);
 			return 'some';
 		});
 	}
